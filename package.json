@@ -1,0 +1,13 @@
+{
+    "name": "frame-webapp",
+    "version": "1.0.0",
+    "description": "Frame Web Application",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve -s . -l 3000",
+        "build": "echo 'No build process needed'"
+    },
+    "dependencies": {
+        "serve": "^14.2.0"
+    }
+}
