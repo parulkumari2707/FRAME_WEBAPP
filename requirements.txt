@@ -1,0 +1,10 @@
+Flask
+flask
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+Werkzeug==2.2.3
+frame-feature-selector
